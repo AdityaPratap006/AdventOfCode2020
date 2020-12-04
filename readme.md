@@ -4,7 +4,7 @@
 You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
 
 ### Steps to run locally:
-1. Intall dependencies.
+1. Install dependencies.
     ```sh
     $ yarn
     ```
@@ -15,4 +15,4 @@ You don't need a computer science background to participate - just a little prog
 3. Open another terminal and run command
    ```sh
     $ yarn dev
-    ```
+   ```
