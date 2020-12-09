@@ -5,7 +5,8 @@
 // import { solution as solutionDay5 } from './day5/solution';
 // import { solution as solutionDay6 } from './day6/solution';
 // import { solution as solutionDay7 } from './day7/solution';
-import { solution as solutionDay8 } from './day8/solution';
+// import { solution as solutionDay8 } from './day8/solution';
+import { solution as solutionDay9 } from './day9/solution';
 
 
 // solutionDay1();
@@ -15,4 +16,5 @@ import { solution as solutionDay8 } from './day8/solution';
 // solutionDay5();
 // solutionDay6();
 // solutionDay7();
-solutionDay8();
+// solutionDay8();
+solutionDay9();
